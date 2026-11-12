@@ -1,6 +1,11 @@
 # Adaptive Traffic Signal Control using Reinforcement Learning
 ### Q-Learning Agent vs Fixed-Time Baseline | Indian Urban Intersection
 
+[![Open Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://traffic-rl-dashboard.streamlit.app)
+
+**Live Demo:** https://traffic-rl-dashboard.streamlit.app
+
+
 ---
 
 ## Problem
